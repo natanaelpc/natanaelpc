@@ -9,7 +9,7 @@
 
 ###
 
-<h2 align="left">Techs</h2>
+<h2 align="left">Linguagens e Tecnologias 📚</h2>
 
 ###
 ###
