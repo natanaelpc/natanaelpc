@@ -13,7 +13,7 @@
 
 ###
 
-<div align="right">
+<div align="center">
 <img src="https://github.com/user-attachments/assets/c8772b29-54a0-4c5f-b382-ef024005f569" />
 </div>
 
