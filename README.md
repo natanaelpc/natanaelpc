@@ -27,8 +27,11 @@
   </div>
 
 <p align="right">
-  <img src="https://github.com/user-attachments/assets/6f96cd0e-a18c-4a99-9253-bc83e7173a9b" alt="Arminha" />
+  <img src="https://github.com/user-attachments/assets/6f96cd0e-a18c-4a99-9253-bc83e7173a9b" alt="Arminha" width="100" />
+  <img src="https://github.com/user-attachments/assets/f777dc24-3d62-442d-b68c-ef588a736dbb" alt="Aura" width="100" />
+  <img src="https://github.com/user-attachments/assets/db9e32f3-5c8f-468d-a896-8cf573802991" alt="Aura" width="100" />
 </p>
+
 
 </div>
 
